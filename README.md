@@ -7,4 +7,6 @@ https://exoplanetarchive.ipac.caltech.edu/
 http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
 
 
+Medium link:
 
+https://towardsdatascience.com/how-efficient-is-machine-learning-to-detect-exoplanets-78037f502b73
